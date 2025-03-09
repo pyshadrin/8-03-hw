@@ -32,3 +32,6 @@ DBPassword=password
 ## Запуск процессов Zabbix сервера и агента
 systemctl restart zabbix-server zabbix-agent apache2  
 systemctl enable zabbix-server zabbix-agent apache2  
+
+## Скриншот для Задания 1
+![image](https://github.com/user-attachments/assets/a8ce9e7e-de46-4e19-afd9-82e9cd14a25a)
