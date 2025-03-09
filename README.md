@@ -60,8 +60,5 @@ systemctl enable zabbix-agent
 ![image](https://github.com/user-attachments/assets/93cdefd6-2ddc-4fc9-b62c-ae398d26d5eb)
 ![image](https://github.com/user-attachments/assets/790c3726-0ec6-43fb-a49c-5d303f239eca)
 
-
-
-
-
-
+## Скриншот для Задания 3
+![image](https://github.com/user-attachments/assets/4599033d-acab-4f35-a351-792703352fc0)
