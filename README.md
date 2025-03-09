@@ -53,3 +53,10 @@ apt install zabbix-agent
 ## Запуска процесса Zabbix агента
 systemctl restart zabbix-agent  
 systemctl enable zabbix-agent  
+
+## Скриншот для Задания 2
+![image](https://github.com/user-attachments/assets/76af8350-8cbf-4cf4-b34f-967e0e1ca37c)  
+![image](https://github.com/user-attachments/assets/b9c8df3d-3354-44ae-8277-872b8ff1747b)  
+
+
+
